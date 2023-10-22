@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balqis1234
 - 👀 I’m interested in web development including front-end and back-end development.
-- 🌱 I’m currently learning the web and mobile apps (Android) development.
+- 🌱 I’m currently learning the mobile apps (Android) development.
 - 📫 How to reach me : Email : sitinurbalqis0104@gmail.com
 - Languages learned: HTML, CSS, JavaScript, C++, C#, Java and Python.
 - Currently under training for Android Certified Associate Developer (ACAD). 
