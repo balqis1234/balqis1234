@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @balqis1234
-- 👀 I’m interested in web development including front-end and back-end development.
-- 🌱 I’m currently learning the mobile apps (Android) development.
+- 👀 I’m interested in analytics which includes business/data analytics.
+- 🌱 I’m currently learning the business analytics course under 2024 K-Youth Development Programme.
 - 📫 How to reach me : Email : sitinurbalqis0104@gmail.com
-- Languages learned: HTML, CSS, JavaScript, C++, C#, Java and Python.
-- Currently under training for Android Certified Associate Developer (ACAD). 
+- Currently under training for Certified Associate in Business Analytics. 
+- Languages learned: HTML, CSS, JavaScript, C++, C#, Java, Python, PHP and SQL.
+
 <!---
 balqis1234/balqis1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
